@@ -207,7 +207,7 @@ Pull requests and suggestions are welcome.
 
 MIT License — free to use, modify, and distribute.
 
-👨‍🏫 13. For Your Professor (Quick Guide)
+👨‍🏫 13. Quick guide to run
 
 To run your project:
 
